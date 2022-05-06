@@ -5,8 +5,7 @@
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently begineer<br>
-✔ I’m currently learning about **machine learning in ML.NET and Tensorflowjs**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source ML.NET and Tensorflowjs projects**<br>
+✔ I’m currently learning about in .NET **🥰<br>
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
 ✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
 <br><br><br><br>
