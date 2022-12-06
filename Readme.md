@@ -8,7 +8,7 @@
 ✔ I’m currently learning .NET framework **🥰<br>
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
 ✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
-<br><br>
+<br>
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MansijRanjit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Mansij Ranjit's Github Stats">
