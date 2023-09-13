@@ -3,7 +3,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ Callme: ***He/His*** or **TeamWorker*** 😊 <br>
 ✔ I’m currently begineer<br>
 ✔ I’m currently learning JavaScript ,Python and NodeJS**🥰<br>
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
