@@ -4,8 +4,9 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or **TeamWorker*** 😊 <br>
-✔ I’m currently begineer<br>
-✔ I’m currently learning JavaScript ,Python and NodeJS**🥰<br>
+✔ I’m learnerr<br>
+✔ I’m good at JS<br>
+✔ I’m currently learning Phaser and NestJS**🥰<br>
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
 ✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
 <br>
